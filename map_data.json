@@ -1,0 +1,37 @@
+[
+  {
+    "district": "KATHMANDU",
+    "longitude": "85.3045",
+    "latitude": "27.7172"
+  },
+  {
+    "district": "LALITPUR",
+    "longitude": "85.3176",
+    "latitude": "27.6679"
+  },
+  {
+    "district": "BHAKTAPUR",
+    "longitude": "85.4280",
+    "latitude": "27.6717"
+  },
+  {
+    "district": "MAKWANPUR",
+    "longitude": "85.2014",
+    "latitude": "27.4869"
+  },
+  {
+    "district": "CHITAWAN",
+    "longitude": "84.2555",
+    "latitude": "27.6190"
+  },
+  {
+    "district": "DANG",
+    "longitude": "82.3915",
+    "latitude": "28.1167"
+  },
+  {
+    "district": "DHADING",
+    "longitude": "84.9582",
+    "latitude": "27.9779"
+  }
+]
